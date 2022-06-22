@@ -29,7 +29,7 @@ include = [
 [tool.poetry.dependencies]
 python = "^3.8"
 panda = "^0.3.1"
-numpy = "^1.21.0"
+numpy = "^1.22.0"
 matplotlib = "^3.3.3"
 torch = "^1.7.1"
 skorch = "^0.9.0"
